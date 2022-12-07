@@ -1,0 +1,1 @@
+Lately, I've been playing around with some multiple devices. It went well, but there was something bothered me. It was a bit painful to manage those at once, especially with GUI. Fortunately, it can be solved using a commonly-used yet sluggish protocol

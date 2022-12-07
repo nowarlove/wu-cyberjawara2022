@@ -1,0 +1,9 @@
+gatau masukin apa kesini
+
+good luck aja deh
+
+challenge di build pake ubuntu 22.04 latest, jadi kalo ada salah offset dsb silakan build di local
+
+Author: Zafirr
+
+nc 167.172.88.66 8002

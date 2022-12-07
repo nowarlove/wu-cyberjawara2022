@@ -1,0 +1,9 @@
+#963fam
+
+Terima kasih kepada Piers#5817 yang bantu tes challenge ini
+
+disarankan menggunakan Dockerfile yang tersedia untuk membuat exploit
+
+Author: Zafirr
+
+nc 167.172.88.66 8003

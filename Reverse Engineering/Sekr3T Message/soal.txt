@@ -1,0 +1,5 @@
+Slamet mendapatkan file yang berisi pesan dari Joko, tetapi sebelum membaca pesan tersebut si Slamet harus mendapatkan Kode terlebih dahulu.
+
+Bantu si Slamet mendapatkan isi pesan dari Joko ya kawan2.
+
+Author: KangGorengan
