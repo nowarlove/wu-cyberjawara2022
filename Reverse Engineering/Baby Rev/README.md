@@ -32,7 +32,9 @@ Tapi sebelum menganalisa lebih jauh kami akan memeriksa header metadata dengan c
 ternyata adalah sebuah file binary yang harus kita analisa menggunakn ida, karna agak tidak memperpanjang dokumentasi, untuk penjelasan elf file silahkan [lihat pejelasan disini](https://en.wikipedia.org/wikiExecutable_and_Linkable_Format)
 
 setelah itu kami langsung saja melalukan decompile file dengan ida pro. dan terlihat hasil berikut :
+
 ![cek](img/3.PNG)
+
 mudahnya ketika program di eksekusi, program akan langsung memunculkan string untuk memasukkan sebuah flag/password, nantinya string yang kita inputkan. Akan di compare dengan strcmp. asumsi penulis, hal ini bisa langsung kita coba untuk melakukan trace pada program, dengan menggunakan tool **ltrace** pada program, guna mengetahui inputan kita akan di compare dengan apa.
 
 ![cek](img/4.PNG)
